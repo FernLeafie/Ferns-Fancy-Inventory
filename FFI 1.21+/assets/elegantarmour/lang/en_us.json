@@ -1,0 +1,17 @@
+{
+  "options.elegantCustomisation": "§fElegant Customisation",
+  "options.elegantDefault": "§fDefault Customisation",
+
+  "options.elegantarmour.default": "§fDefault",
+  "options.elegantarmour.show": "§aShow",
+  "options.elegantarmour.hide": "§cHide",
+  "options.elegantarmour.small.show": "§cDisabled",
+  "options.elegantarmour.small.hide": "§aEnabled",
+
+  "options.elegantarmour.helmet": "§fHelmet",
+  "options.elegantarmour.chestplate": "§fChestplate",
+  "options.elegantarmour.leggings": "§fLeggings",
+  "options.elegantarmour.boots": "§fBoots",
+  "options.elegantarmour.elytra": "§fElytra",
+  "options.elegantarmour.small": "§fSlim Armour"
+}
