@@ -30,13 +30,13 @@ The other folders are
 If you wish to contribute to the development of the pack yourself that would be much apprichiated. Pull requests can either choose to just put the files into under `development`, or integrate it directly into the version folders. Regardless, informing us about the changes and discussion around them in the discord [Fern's Forest](https://discord.gg/3bgQsPYwZb) would be much apprichiated.
 
 ## Credits
-The vanilla section of this mod comes from:
+Part of the vanilla section of this resource pack comes from:
 
-Kiz's [OLED Advanced GUI]([https://www.planetminecraft.com/texture-pack/dark-advanced-gui/](https://www.planetminecraft.com/texture-pack/dark-advanced-gui/))
+Kiz's [OLED Advanced GUI](https://www.planetminecraft.com/texture-pack/dark-advanced-gui/)
 
 which in turn is based on:
 
-Blasjel's [Advanced GUI]([https://www.planetminecraft.com/texture-pack/custom-gui/](https://www.planetminecraft.com/texture-pack/custom-gui/))
+Blasjel's [Advanced GUI](https://www.planetminecraft.com/texture-pack/custom-gui/)
 
 and
-Ewan Howell's [OLEDcraft]([https://www.planetminecraft.com/texture-pack/oledcraft/](https://www.planetminecraft.com/texture-pack/oledcraft/))
+Ewan Howell's [OLEDcraft](https://www.planetminecraft.com/texture-pack/oledcraft/)
