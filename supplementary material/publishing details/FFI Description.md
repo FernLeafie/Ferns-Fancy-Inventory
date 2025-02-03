@@ -212,7 +212,7 @@ Might also figure out how to set up a GitHub too
 ## Contributors
  - [Szedann](https://modrinth.com/user/Szedann) - He helps from time to time
  
-Do you also wish to contribute? join the discord and talk to us there! Contributions can be anything from helping translate FFI into another language, to contribute with updated or new mod support.
+Do you also wish to contribute? Join the discord and talk to us there! Contributions can be anything from helping translate FFI into another language, to contribute with updated or new mod support.
 ## Credits
 Part of the vanilla section of this resource pack comes from:
 
