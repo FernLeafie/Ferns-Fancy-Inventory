@@ -109,7 +109,7 @@ Some packs that recommend to use for the following mods are:
 Bugs and feature requests will be handled in the discord
 [Fern's Forest](https://discord.gg/3bgQsPYwZb)
 
-Might also figure out how to set up a GitHub too
+Github is availabe as [Ferns-Fancy-Inventory](https://github.com/akkini1/Ferns-Fancy-Inventory), but the discord is prefered.
 
 ## Planned Mod Support
 
@@ -212,7 +212,7 @@ Might also figure out how to set up a GitHub too
 ## Contributors
  - [Szedann](https://modrinth.com/user/Szedann) - He helps from time to time
  
-Do you also wish to contribute? Join the discord and talk to us there! Contributions can be anything from helping translate FFI into another language, to contribute with updated or new mod support.
+Do you also wish to contribute? Join the discord and talk to us there! Or check out the GitHub. Contributions can be anything from helping translate FFI into another language, to contribute with updated or new mod support.
 ## Credits
 Part of the vanilla section of this resource pack comes from:
 
