@@ -5,6 +5,7 @@ FFI is a dark mode GUI pack using much darker tones than typical packs usually w
 The pack can only be officially downloaded from
  - [Modrinth](https://modrinth.com/resourcepack/ferns-fancy-inventory)
  - [CurseForge](https://www.curseforge.com/minecraft/texture-packs/ferns-fancy-inventory)
+ 
  Any other places are illegitimate
 
  ## Support
@@ -29,7 +30,7 @@ The other folders are
 If you wish to contribute to the development of the pack yourself that would be much apprichiated. Pull requests can either choose to just put the files into under `development`, or integrate it directly into the version folders. Regardless, informing us about the changes and discussion around them in the discord [Fern's Forest](https://discord.gg/3bgQsPYwZb) would be much apprichiated.
 
 ## Credits
-the vanilla section of this mod comes from:
+The vanilla section of this mod comes from:
 
 Kiz's [OLED Advanced GUI]([https://www.planetminecraft.com/texture-pack/dark-advanced-gui/](https://www.planetminecraft.com/texture-pack/dark-advanced-gui/))
 
