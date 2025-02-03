@@ -199,3 +199,17 @@ Fern's Fancy Inventory 1.xx+ 1.1.13
 
 #### Other changes:
 - Fixed background for Create: Estrogen thigh slot
+
+Fern's Fancy Inventory 1.xx+ 1.1.14
+1.1.14
+### Minor Update
+#### New mod GUIs supported:
+- BackSlot
+- Camera Utils
+- Inventory Profiles Next (WIP)
+- libIPN (WIP)
+- MidnightControls (WIP)
+- ObsidianUI (WIP)
+
+#### Other changes:
+- Fixed Create material resource requirements square for track placement

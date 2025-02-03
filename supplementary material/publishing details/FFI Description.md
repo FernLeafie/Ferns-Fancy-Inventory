@@ -8,10 +8,10 @@ Another useful mod is [GUI Pack Utils](https://modrinth.com/mod/gui-pack-utils) 
 ## Currently Supported Mods
 Current count: 
 `
-68
+70
 `
 , over 
-`5` versions, as of version `1.1.13`
+`5` versions, as of version `1.1.14`
 <details>
 <summary>List and support</summary>
 
@@ -29,10 +29,12 @@ Partial support could mean that all inventories in the mod are dark, but not sty
 | [Auth Me](https://modrinth.com/mod/auth-me) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [Axiom](https://modrinth.com/mod/axiom) | X | X | X | ✔ | ✔ |
 | [Backpacked](https://www.curseforge.com/minecraft/mc-mods/backpacked-fabric) | X | X | ✔ | ✔ | X |
+| [BackSlot](https://modrinth.com/mod/backslot) | ✔| ✔ | ✔ | ✔ | ✔ |
 | [Better Advancements](https://modrinth.com/mod/better-advancements) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [Better Enchanting](https://modrinth.com/mod/better-enchanting) | X | X | X | ✔ | ✔ |
 | [Better Stats](https://modrinth.com/mod/better-stats) | X | ✔ | ✔ | ✔ | ✔ |
 | [Brewin' And Chewin'](https://modrinth.com/mod/brewin-and-chewin-fabric/versions) | X | X | ✔ | ✔ | ✔ |
+| [Camera Utils](https://modrinth.com/mod/camera-utils) | X | ✔ | ✔ | ✔ | ✔ |
 | [Capes](https://modrinth.com/mod/capes) | X | ✔ | ✔ | ✔ | X |
 | [CC: Tweaked](https://modrinth.com/mod/cc-tweaked/) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [Chat Patches](https://modrinth.com/mod/chatpatches) | X | ✔ | ✔ | ✔ | ✔ |
