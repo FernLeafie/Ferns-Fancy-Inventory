@@ -51,6 +51,7 @@ Partial support could mean that all inventories in the mod are dark, but not sty
 | [Curios](https://modrinth.com/mod/curios) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [Diet](https://modrinth.com/mod/diet) | ▲ | ▲ | ▲ | ▲ | ▲ |
+| [Easy Anvils](https://modrinth.com/mod/easy-anvils) | X | ✔ | ✔ | ✔ | ✔ |
 | [Elegant Armour](https://modrinth.com/mod/elegantarmour) | X | X | ✔ | ✔ | ✔ |
 | [Embers Rekindled](https://modrinth.com/mod/embers) | X | X | X | ✔ | ✔ |
 | [EMI](https://modrinth.com/mod/emi) | X | ✔ | ✔ | ✔ | ✔ |

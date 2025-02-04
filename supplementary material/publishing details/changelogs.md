@@ -212,5 +212,5 @@ Fern's Fancy Inventory 1.xx+ 1.1.14
 - ObsidianUI (WIP)
 
 #### Other changes:
-- Fixed Create material resource requirements square for track placement
+- Fixed Create material resource requirements overlay for track placement and blueprint crafting
 - Fixed Roughly Enough Item Darkmode, making both the light and darkmode dark instead of just the dark (WIP)
