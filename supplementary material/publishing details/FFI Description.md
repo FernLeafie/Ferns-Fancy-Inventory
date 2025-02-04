@@ -8,7 +8,7 @@ Another useful mod is [GUI Pack Utils](https://modrinth.com/mod/gui-pack-utils) 
 ## Currently Supported Mods
 Current count: 
 `
-70
+72
 `
 , over 
 `5` versions, as of version `1.1.14`
@@ -57,6 +57,7 @@ Partial support could mean that all inventories in the mod are dark, but not sty
 | [Enchancement](https://modrinth.com/mod/enchancement) | X | ✔ | ✔ | ✔ | ✔ |
 | [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [Exposure](https://modrinth.com/mod/exposure) | X | X | ▲ | ✔ | ✔ |
+| [Expanded delight](https://modrinth.com/mod/expanded-delight) | X | ✔ | ✔ | ✔ | ✔ |
 | [Extreme Sound Muffler](https://modrinth.com/mod/extreme_sound_muffler) | X | ✔ | ✔ | ✔ | ✔ |
 | [Fabric](https://fabricmc.net/) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [Farmer's Delight](https://modrinth.com/mod/farmers-delight) | ✔ | ✔ | ✔ | ✔ | ✔ |
@@ -66,7 +67,9 @@ Partial support could mean that all inventories in the mod are dark, but not sty
 | [FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) | ✔ | ✔ | ✔ | ✔  | ✔ |
 | [FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [Immersive Engineering](https://modrinth.com/mod/immersiveengineering) | ▲ | ▲ | ▲ | ▲ | ▲ |
+| [Inventorio](https://modrinth.com/mod/inventorio) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [Inventory Management](https://modrinth.com/mod/inventory-management) | X | ✔ | ✔ | ✔ | ✔ |
+| [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [Iris Shaders](https://modrinth.com/mod/iris) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [ItemSwapper](https://modrinth.com/plugin/itemswapper) | X | ✔ | ✔ | ✔ | ✔ |
 | [JEI](https://modrinth.com/mod/jei) | ✔ | ✔ | ✔ | ✔ | ✔ |

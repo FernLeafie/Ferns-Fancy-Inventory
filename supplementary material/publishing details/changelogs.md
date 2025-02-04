@@ -206,10 +206,11 @@ Fern's Fancy Inventory 1.xx+ 1.1.14
 #### New mod GUIs supported:
 - BackSlot
 - Camera Utils
-- Inventory Profiles Next (WIP)
-- libIPN (WIP)
+- Inventorio
+- Inventory Profiles Next
 - MidnightControls (WIP)
 - ObsidianUI (WIP)
 
 #### Other changes:
 - Fixed Create material resource requirements square for track placement
+- Fixed Roughly Enough Item Darkmode, making both the light and darkmode dark instead of just the dark (WIP)
