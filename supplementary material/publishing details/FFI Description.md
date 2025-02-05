@@ -8,7 +8,7 @@ Another useful mod is [GUI Pack Utils](https://modrinth.com/mod/gui-pack-utils) 
 ## Currently Supported Mods
 Current count: 
 `
-72
+75
 `
 , over 
 `5` versions, as of version `1.1.14`
@@ -96,6 +96,7 @@ Partial support could mean that all inventories in the mod are dark, but not sty
 | [Trinkets](https://modrinth.com/mod/trinkets) | X | ✔ | ✔ | ✔ | ✔ |
 | [Universal Graves](https://modrinth.com/mod/universal-graves) | X | ✔ | ✔ | ✔ | ✔ |
 | [Utility Belt](https://modrinth.com/mod/utility-belt) | X | X | ▲ | ▲ | ▲ |
+| [Vanilla Notebook](https://modrinth.com/mod/notebook) | X | ✔ | ✔ | ✔ | ✔ |
 | [What Are They Up To (Watut)](https://modrinth.com/mod/what-are-they-up-to) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [Wired Redstone](https://modrinth.com/mod/wiredredstone) | X | ✔ | ✔ | ✔ | ✔ |
 | [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) | ✔ | ✔ | ✔ | ✔ | ✔ |
@@ -155,7 +156,6 @@ Github is availabe as [Ferns-Fancy-Inventory](https://github.com/akkini1/Ferns-F
   - [Rechiseled](https://modrinth.com/mod/rechiseled)
   - [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
   - [Tool Belt](https://www.curseforge.com/minecraft/mc-mods/tool-belt)
-  - [Vanilla Notebook](https://modrinth.com/mod/notebook)
   ### 1.18 related update
   ---
   

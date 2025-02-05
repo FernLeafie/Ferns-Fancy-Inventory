@@ -211,6 +211,7 @@ Fern's Fancy Inventory 1.xx+ 1.1.14
 - Inventory Profiles Next
 - MidnightControls (WIP)
 - ObsidianUI (WIP)
+- Vanilla Notebook
 
 #### Other changes:
 - Fixed Create material resource requirements overlay for track placement and blueprint crafting
