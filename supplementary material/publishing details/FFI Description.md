@@ -78,9 +78,11 @@ Partial support could mean that all inventories in the mod are dark, but not sty
 | [MaLiLib](https://modrinth.com/mod/malilib) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [Malum](https://modrinth.com/mod/malum) | X | ✔ | ✔ | ✔ | ✔ |
 | [Mantle](https://modrinth.com/mod/mantle) | ✔ | ✔ | ✔ | ✔ | X |
+| [MidnightControls](https://modrinth.com/mod/midnightcontrols) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [Miner's Delight](https://modrinth.com/mod/miners-delight) | X | ✔ | ✔ | ✔ | ✔ |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | X | ✔ | ✔ | ✔ | ✔ |
+| [ObsidianUI](https://modrinth.com/mod/obsidianui) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [Quark](https://modrinth.com/mod/quark) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [REI](https://modrinth.com/mod/rei) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [ReplayMod](https://modrinth.com/mod/replaymod) | ✔ | ✔ | ✔ | ✔ | ✔ |
@@ -151,7 +153,6 @@ Github is availabe as [Ferns-Fancy-Inventory](https://github.com/akkini1/Ferns-F
   - [[Let's Do] Meadow](https://modrinth.com/mod/lets-do-meadow)
   - [[Let's Do] Vinery](https://modrinth.com/mod/lets-do-vinery)
   - [Macaw's Furniture](https://modrinth.com/mod/macaws-furniture)
-  - [MidnightControls](https://modrinth.com/mod/midnightcontrols)
   - [Polymorph](https://modrinth.com/mod/polymorph)
   - [Rechiseled](https://modrinth.com/mod/rechiseled)
   - [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)

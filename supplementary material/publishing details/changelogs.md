@@ -209,8 +209,8 @@ Fern's Fancy Inventory 1.xx+ 1.1.14
 - Easy Anvils
 - Inventorio
 - Inventory Profiles Next
-- MidnightControls (WIP)
-- ObsidianUI (WIP)
+- MidnightControls
+- ObsidianUI
 - Vanilla Notebook
 
 #### Other changes:
