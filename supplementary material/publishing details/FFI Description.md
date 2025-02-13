@@ -8,7 +8,7 @@ Another useful mod is [GUI Pack Utils](https://modrinth.com/mod/gui-pack-utils) 
 ## Currently Supported Mods
 Current count: 
 `
-75
+77
 `
 , over 
 `5` versions, as of version `1.1.14`
