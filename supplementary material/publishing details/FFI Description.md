@@ -8,7 +8,7 @@ Another useful mod is [GUI Pack Utils](https://modrinth.com/mod/gui-pack-utils) 
 ## Currently Supported Mods
 Current count: 
 `
-77
+78
 `
 , over 
 `5` versions, as of version `1.1.14`
@@ -45,6 +45,7 @@ Partial support could mean that all inventories in the mod are dark, but not sty
 | [Create Big Cannons](https://modrinth.com/mod/create-big-cannons) | X | ✔ | ✔ | ✔ | ✔ |
 | [Create Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry) | X | X | ✔ | ✔ | ✔ |
 | [Create: Estrogen](https://modrinth.com/mod/estrogen) | X | ✔ | ✔ | ✔ | X |
+| [Create Nuclear](https://modrinth.com/mod/createnuclear) | X | X | X | ✔ | X |
 | [Create: Numismatics](https://modrinth.com/mod/numismatics) | X | X | X | ✔ | ✔ |
 | [Create: Railways Navigator](https://modrinth.com/mod/create-railways-navigator) | X | ✔ | ✔ | ✔ | ✔ |
 | [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails) | X | X | ✔ | ✔ | ✔ |
