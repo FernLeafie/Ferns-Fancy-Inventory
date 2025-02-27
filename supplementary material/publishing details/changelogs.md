@@ -206,6 +206,7 @@ Fern's Fancy Inventory 1.xx+ 1.1.14
 #### New mod GUIs supported:
 - BackSlot
 - Camera Utils
+- Crafting Tweaks
 - Create Nuclear
 - Easy Anvils
 - Inventorio

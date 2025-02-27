@@ -8,7 +8,7 @@ Another useful mod is [GUI Pack Utils](https://modrinth.com/mod/gui-pack-utils) 
 ## Currently Supported Mods
 Current count: 
 `
-79
+80
 `
 , over 
 `5` versions, as of version `1.1.14`
@@ -41,6 +41,7 @@ Partial support could mean that all inventories in the mod are dark, but not sty
 | [Chunk Loaders](https://modrinth.com/mod/chunk-loaders) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [Cosmetic Armor](https://modrinth.com/mod/cosmetic-armor) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) | ✔ | ✔ | ✔ | ✔ | ✔ |
+| [Crafting Tweaks](https://modrinth.com/mod/crafting-tweaks) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [Create](https://modrinth.com/mod/create) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [Create Big Cannons](https://modrinth.com/mod/create-big-cannons) | X | ✔ | ✔ | ✔ | ✔ |
 | [Create Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry) | X | X | ✔ | ✔ | ✔ |
