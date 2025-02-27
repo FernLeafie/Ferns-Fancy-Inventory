@@ -215,6 +215,7 @@ Fern's Fancy Inventory 1.xx+ 1.1.14
 - Vanilla Notebook
 
 #### Other changes:
+- Fixed background for Malum trinkets slots
 - Fixed Create material resource requirements overlay for track placement and blueprint crafting
 - Fixed Roughly Enough Item Darkmode, making both the light and darkmode dark instead of just the dark
 - Fixed Issue with Minecraft 1.21 where slots wheren't retextured due to having moved location
