@@ -210,6 +210,7 @@ Fern's Fancy Inventory 1.xx+ 1.1.14
 - Easy Anvils
 - Inventorio
 - Inventory Profiles Next
+- Joy of Painting
 - MidnightControls
 - ObsidianUI
 - Vanilla Notebook

@@ -8,7 +8,7 @@ Another useful mod is [GUI Pack Utils](https://modrinth.com/mod/gui-pack-utils) 
 ## Currently Supported Mods
 Current count: 
 `
-78
+79
 `
 , over 
 `5` versions, as of version `1.1.14`
@@ -75,6 +75,7 @@ Partial support could mean that all inventories in the mod are dark, but not sty
 | [Iris Shaders](https://modrinth.com/mod/iris) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [ItemSwapper](https://modrinth.com/plugin/itemswapper) | X | ✔ | ✔ | ✔ | ✔ |
 | [JEI](https://modrinth.com/mod/jei) | ✔ | ✔ | ✔ | ✔ | ✔ |
+| [Joy of Painting](https://modrinth.com/mod/joy-of-painting) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [Litematica](https://modrinth.com/mod/litematica) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [MaLiLib](https://modrinth.com/mod/malilib) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [Malum](https://modrinth.com/mod/malum) | X | ✔ | ✔ | ✔ | ✔ |
