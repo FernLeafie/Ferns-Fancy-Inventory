@@ -219,6 +219,15 @@ Fern's Fancy Inventory 1.xx+ 1.1.14
 #### Other changes:
 - Fixed background for Malum trinkets slots
 - Fixed Create material resource requirements overlay for track placement and blueprint crafting
-- Fixed Roughly Enough Item Darkmode, making both the light and darkmode dark instead of just the dark
-- Fixed Issue with Minecraft 1.21 where slots wheren't retextured due to having moved location
+- Fixed Roughly Enough Item darkmode, making both the light and darkmode dark instead of just the dark
+- Fixed Issue with Minecraft 1.21 where slots weren't retextured due to having moved location
 - Updated Resourcify support for 1.20 - 1.21
+
+Fern's Fancy Inventory 1.xx+ 1.1.15
+1.1.15
+### Minor Update
+#### New mod GUIs supported:
+None
+
+#### Other changes:
+- Updated Create support for 1.20 - 1.21 to work with 6.0.0
