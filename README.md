@@ -9,7 +9,7 @@ The pack can only be officially downloaded from
  Any other places are illegitimate
 
  ## Support
- An up to date list of the supported mods can be found either on Modrinth or in this [repo](https://github.com/akkini1/Ferns-Fancy-Inventory/blob/main/supplementary%20material/publishing%20details/FFI%20Description.md), note that the version in the repo might also list support of the upcomming version.
+ An up to date list of the supported mods can be found either on Modrinth or in this [repo](https://github.com/fernleafie/Ferns-Fancy-Inventory/blob/main/supplementary%20material/publishing%20details/FFI%20Description.md), note that the version in the repo might also list support of the upcomming version.
 
 ## Repo details
 This is the official repo that can be used for contributions. All files here should be concidered under development or in progress and not used for other purposes than contribution or testing.
