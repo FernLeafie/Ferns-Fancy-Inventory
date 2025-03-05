@@ -230,4 +230,13 @@ Fern's Fancy Inventory 1.xx+ 1.1.15
 None
 
 #### Other changes:
-- Updated Create support for 1.20 - 1.21 to work with 6.0.0
+- Updated Create support for 1.20 - 1.21 to work with 6.0.0, note that this means those versions are no longer backwards compatible with create 0.5.1
+
+Fern's Fancy Inventory 1.xx+ 1.1.16
+1.1.16
+### Minor Update
+#### New mod GUIs supported:
+- Corpse
+
+#### Other changes:
+None

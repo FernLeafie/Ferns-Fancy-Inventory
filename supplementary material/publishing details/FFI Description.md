@@ -8,10 +8,10 @@ Another useful mod is [GUI Pack Utils](https://modrinth.com/mod/gui-pack-utils) 
 ## Currently Supported Mods
 Current count: 
 `
-80
+81
 `
 , over 
-`5` versions, as of version `1.1.14`
+`5` versions, as of version `1.1.16`
 <details>
 <summary>List and support</summary>
 
@@ -39,6 +39,7 @@ Partial support could mean that all inventories in the mod are dark, but not sty
 | [CC: Tweaked](https://modrinth.com/mod/cc-tweaked/) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [Chat Patches](https://modrinth.com/mod/chatpatches) | X | ✔ | ✔ | ✔ | ✔ |
 | [Chunk Loaders](https://modrinth.com/mod/chunk-loaders) | ✔ | ✔ | ✔ | ✔ | ✔ |
+| [Corpse](https://modrinth.com/mod/corpse) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [Cosmetic Armor](https://modrinth.com/mod/cosmetic-armor) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) | ✔ | ✔ | ✔ | ✔ | ✔ |
 | [Crafting Tweaks](https://modrinth.com/mod/crafting-tweaks) | ✔ | ✔ | ✔ | ✔ | ✔ |
@@ -167,7 +168,6 @@ Github is availabe as [Ferns-Fancy-Inventory](https://github.com/akkini1/Ferns-F
    - [Clockwork](https://modrinth.com/mod/create-clockwork)
    - [Control Engineering](https://modrinth.com/mod/control-engineering)
    - [Cooking for blockheads](https://modrinth.com/mod/cooking-for-blockheads)
-   - [Corpse](https://modrinth.com/mod/corpse)
    - [Create: Connected](https://modrinth.com/mod/create-connected)
    - [Create: Misc and Things](https://modrinth.com/mod/create-misc-and-things)
    - Create Casing
