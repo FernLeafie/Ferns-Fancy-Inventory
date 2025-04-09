@@ -236,7 +236,8 @@ Fern's Fancy Inventory 1.xx+ 1.1.16
 1.1.16
 ### Minor Update
 #### New mod GUIs supported:
+- Accessories
 - Corpse
 
 #### Other changes:
-None
+- Updated Axiom support

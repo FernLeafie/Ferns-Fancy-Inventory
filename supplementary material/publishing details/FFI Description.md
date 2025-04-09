@@ -8,14 +8,14 @@ Another useful mod is [GUI Pack Utils](https://modrinth.com/mod/gui-pack-utils) 
 ## Currently Supported Mods
 Current count: 
 `
-81
+82
 `
 , over 
 `5` versions, as of version `1.1.16`
 <details>
 <summary>List and support</summary>
 
-| X - Not supported | ✔ - Supported | ▲ - Partial support |
+| ❌ - Not supported | ✅ - Supported | ⚠️ - Partial support |
 |:----:|:----:|:----:|
 
 Partial support could mean that all inventories in the mod are dark, but not styled, or that some are styled and some aren't, or some remain light, or that it simply lacks support to remove the title of a GUI.
@@ -25,87 +25,88 @@ Partial support could mean that all inventories in the mod are dark, but not sty
 ---
 | Mods     | 1.16 | 1.18 | 1.19 | 1.20 | 1.21 |
 |----------|:----:|:----:|:----:|:----:|:----:|
-| [Astral Sorcery](https://www.curseforge.com/minecraft/mc-mods/astral-sorcery) | ✔ | X | X | X | X |
-| [Auth Me](https://modrinth.com/mod/auth-me) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Axiom](https://modrinth.com/mod/axiom) | X | X | X | ✔ | ✔ |
-| [Backpacked](https://www.curseforge.com/minecraft/mc-mods/backpacked-fabric) | X | X | ✔ | ✔ | X |
-| [BackSlot](https://modrinth.com/mod/backslot) | ✔| ✔ | ✔ | ✔ | ✔ |
-| [Better Advancements](https://modrinth.com/mod/better-advancements) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Better Enchanting](https://modrinth.com/mod/better-enchanting) | X | X | X | ✔ | ✔ |
-| [Better Stats](https://modrinth.com/mod/better-stats) | X | ✔ | ✔ | ✔ | ✔ |
-| [Brewin' And Chewin'](https://modrinth.com/mod/brewin-and-chewin-fabric/versions) | X | X | ✔ | ✔ | ✔ |
-| [Camera Utils](https://modrinth.com/mod/camera-utils) | X | ✔ | ✔ | ✔ | ✔ |
-| [Capes](https://modrinth.com/mod/capes) | X | ✔ | ✔ | ✔ | X |
-| [CC: Tweaked](https://modrinth.com/mod/cc-tweaked/) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Chat Patches](https://modrinth.com/mod/chatpatches) | X | ✔ | ✔ | ✔ | ✔ |
-| [Chunk Loaders](https://modrinth.com/mod/chunk-loaders) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Corpse](https://modrinth.com/mod/corpse) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Cosmetic Armor](https://modrinth.com/mod/cosmetic-armor) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Crafting Tweaks](https://modrinth.com/mod/crafting-tweaks) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Create](https://modrinth.com/mod/create) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Create Big Cannons](https://modrinth.com/mod/create-big-cannons) | X | ✔ | ✔ | ✔ | ✔ |
-| [Create Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry) | X | X | ✔ | ✔ | ✔ |
-| [Create: Estrogen](https://modrinth.com/mod/estrogen) | X | ✔ | ✔ | ✔ | X |
-| [Create Nuclear](https://modrinth.com/mod/createnuclear) | X | X | X | ✔ | X |
-| [Create: Numismatics](https://modrinth.com/mod/numismatics) | X | X | X | ✔ | ✔ |
-| [Create: Railways Navigator](https://modrinth.com/mod/create-railways-navigator) | X | ✔ | ✔ | ✔ | ✔ |
-| [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails) | X | X | ✔ | ✔ | ✔ |
-| [Curios](https://modrinth.com/mod/curios) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Diet](https://modrinth.com/mod/diet) | ▲ | ▲ | ▲ | ▲ | ▲ |
-| [Easy Anvils](https://modrinth.com/mod/easy-anvils) | X | ✔ | ✔ | ✔ | ✔ |
-| [Elegant Armour](https://modrinth.com/mod/elegantarmour) | X | X | ✔ | ✔ | ✔ |
-| [Embers Rekindled](https://modrinth.com/mod/embers) | X | X | X | ✔ | ✔ |
-| [EMI](https://modrinth.com/mod/emi) | X | ✔ | ✔ | ✔ | ✔ |
-| [Enchancement](https://modrinth.com/mod/enchancement) | X | ✔ | ✔ | ✔ | ✔ |
-| [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Exposure](https://modrinth.com/mod/exposure) | X | X | ▲ | ✔ | ✔ |
-| [Expanded delight](https://modrinth.com/mod/expanded-delight) | X | ✔ | ✔ | ✔ | ✔ |
-| [Extreme Sound Muffler](https://modrinth.com/mod/extreme_sound_muffler) | X | ✔ | ✔ | ✔ | ✔ |
-| [Fabric](https://fabricmc.net/) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Farmer's Delight](https://modrinth.com/mod/farmers-delight) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Farmer's Respite](https://www.curseforge.com/minecraft/mc-mods/farmers-respite) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Firorize](https://modrinth.com/mod/firorize) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [FTB Library](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) | ✔ | ✔ | ✔ | ✔  | ✔ |
-| [FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Immersive Engineering](https://modrinth.com/mod/immersiveengineering) | ▲ | ▲ | ▲ | ▲ | ▲ |
-| [Inventorio](https://modrinth.com/mod/inventorio) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Inventory Management](https://modrinth.com/mod/inventory-management) | X | ✔ | ✔ | ✔ | ✔ |
-| [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Iris Shaders](https://modrinth.com/mod/iris) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [ItemSwapper](https://modrinth.com/plugin/itemswapper) | X | ✔ | ✔ | ✔ | ✔ |
-| [JEI](https://modrinth.com/mod/jei) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Joy of Painting](https://modrinth.com/mod/joy-of-painting) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Litematica](https://modrinth.com/mod/litematica) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [MaLiLib](https://modrinth.com/mod/malilib) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Malum](https://modrinth.com/mod/malum) | X | ✔ | ✔ | ✔ | ✔ |
-| [Mantle](https://modrinth.com/mod/mantle) | ✔ | ✔ | ✔ | ✔ | X |
-| [MidnightControls](https://modrinth.com/mod/midnightcontrols) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Miner's Delight](https://modrinth.com/mod/miners-delight) | X | ✔ | ✔ | ✔ | ✔ |
-| [Mod Menu](https://modrinth.com/mod/modmenu) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | X | ✔ | ✔ | ✔ | ✔ |
-| [ObsidianUI](https://modrinth.com/mod/obsidianui) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Quark](https://modrinth.com/mod/quark) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [REI](https://modrinth.com/mod/rei) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [ReplayMod](https://modrinth.com/mod/replaymod) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Resourcify](https://modrinth.com/mod/resourcify) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Screenshot Viewer](https://modrinth.com/mod/screenshot-viewer/versions) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [SeasonHUD](https://modrinth.com/mod/seasonhud) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Show Me Your Skin!](https://modrinth.com/mod/show-me-your-skin) | X | ✔ | ✔ | ✔ | ✔ |
-| [Simple Discord RPC](https://modrinth.com/mod/simple-discord-rpc) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Storage Drawers](https://modrinth.com/mod/storagedrawers) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Supplementaries](https://modrinth.com/mod/supplementaries) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Tinkers' Construct](https://modrinth.com/mod/tinkers-construct) | ▲ | ▲ | ▲ | ▲ | X |
-| [Trinkets](https://modrinth.com/mod/trinkets) | X | ✔ | ✔ | ✔ | ✔ |
-| [Universal Graves](https://modrinth.com/mod/universal-graves) | X | ✔ | ✔ | ✔ | ✔ |
-| [Utility Belt](https://modrinth.com/mod/utility-belt) | X | X | ▲ | ▲ | ▲ |
-| [Vanilla Notebook](https://modrinth.com/mod/notebook) | X | ✔ | ✔ | ✔ | ✔ |
-| [What Are They Up To (Watut)](https://modrinth.com/mod/what-are-they-up-to) | ✔ | ✔ | ✔ | ✔ | ✔ |
-| [Wired Redstone](https://modrinth.com/mod/wiredredstone) | X | ✔ | ✔ | ✔ | ✔ |
-| [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) | ✔ | ✔ | ✔ | ✔ | ✔ |
+| [Accessories](https://modrinth.com/mod/accessories) | ❌ | ❌ | ❌ | ✅ | ✅ |
+| [Astral Sorcery](https://www.curseforge.com/minecraft/mc-mods/astral-sorcery) | ✅ | ❌ | ❌ | ❌ | ❌ |
+| [Auth Me](https://modrinth.com/mod/auth-me) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Axiom](https://modrinth.com/mod/axiom) | ❌ | ❌ | ❌ | ✅ | ✅ |
+| [Backpacked](https://www.curseforge.com/minecraft/mc-mods/backpacked-fabric) | ❌ | ❌ | ✅ | ✅ | ❌ |
+| [BackSlot](https://modrinth.com/mod/backslot) | ✅| ✅ | ✅ | ✅ | ✅ |
+| [Better Advancements](https://modrinth.com/mod/better-advancements) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Better Enchanting](https://modrinth.com/mod/better-enchanting) | ❌ | ❌ | ❌ | ✅ | ✅ |
+| [Better Stats](https://modrinth.com/mod/better-stats) | ❌ | ✅ | ✅ | ✅ | ✅ |
+| [Brewin' And Chewin'](https://modrinth.com/mod/brewin-and-chewin-fabric/versions) | ❌ | ❌ | ✅ | ✅ | ✅ |
+| [Camera Utils](https://modrinth.com/mod/camera-utils) | ❌ | ✅ | ✅ | ✅ | ✅ |
+| [Capes](https://modrinth.com/mod/capes) | ❌ | ✅ | ✅ | ✅ | ❌ |
+| [CC: Tweaked](https://modrinth.com/mod/cc-tweaked/) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Chat Patches](https://modrinth.com/mod/chatpatches) | ❌ | ✅ | ✅ | ✅ | ✅ |
+| [Chunk Loaders](https://modrinth.com/mod/chunk-loaders) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Corpse](https://modrinth.com/mod/corpse) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Cosmetic Armor](https://modrinth.com/mod/cosmetic-armor) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Crafting Tweaks](https://modrinth.com/mod/crafting-tweaks) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Create](https://modrinth.com/mod/create) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Create Big Cannons](https://modrinth.com/mod/create-big-cannons) | ❌ | ✅ | ✅ | ✅ | ✅ |
+| [Create Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry) | ❌ | ❌ | ✅ | ✅ | ✅ |
+| [Create: Estrogen](https://modrinth.com/mod/estrogen) | ❌ | ✅ | ✅ | ✅ | ❌ |
+| [Create Nuclear](https://modrinth.com/mod/createnuclear) | ❌ | ❌ | ❌ | ✅ | ❌ |
+| [Create: Numismatics](https://modrinth.com/mod/numismatics) | ❌ | ❌ | ❌ | ✅ | ✅ |
+| [Create: Railways Navigator](https://modrinth.com/mod/create-railways-navigator) | ❌ | ✅ | ✅ | ✅ | ✅ |
+| [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails) | ❌ | ❌ | ✅ | ✅ | ✅ |
+| [Curios](https://modrinth.com/mod/curios) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Detail Armor Bar](https://modrinth.com/mod/detail-armor-bar) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Diet](https://modrinth.com/mod/diet) | ⚠️ | ⚠️ | ⚠️ | ⚠️ | ⚠️ |
+| [Easy Anvils](https://modrinth.com/mod/easy-anvils) | ❌ | ✅ | ✅ | ✅ | ✅ |
+| [Elegant Armour](https://modrinth.com/mod/elegantarmour) | ❌ | ❌ | ✅ | ✅ | ✅ |
+| [Embers Rekindled](https://modrinth.com/mod/embers) | ❌ | ❌ | ❌ | ✅ | ✅ |
+| [EMI](https://modrinth.com/mod/emi) | ❌ | ✅ | ✅ | ✅ | ✅ |
+| [Enchancement](https://modrinth.com/mod/enchancement) | ❌ | ✅ | ✅ | ✅ | ✅ |
+| [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Exposure](https://modrinth.com/mod/exposure) | ❌ | ❌ | ⚠️ | ✅ | ✅ |
+| [Expanded delight](https://modrinth.com/mod/expanded-delight) | ❌ | ✅ | ✅ | ✅ | ✅ |
+| [Extreme Sound Muffler](https://modrinth.com/mod/extreme_sound_muffler) | ❌ | ✅ | ✅ | ✅ | ✅ |
+| [Fabric](https://fabricmc.net/) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Farmer's Delight](https://modrinth.com/mod/farmers-delight) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Farmer's Respite](https://www.curseforge.com/minecraft/mc-mods/farmers-respite) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Firorize](https://modrinth.com/mod/firorize) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [FTB Library](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) | ✅ | ✅ | ✅ | ✅  | ✅ |
+| [FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Immersive Engineering](https://modrinth.com/mod/immersiveengineering) | ⚠️ | ⚠️ | ⚠️ | ⚠️ | ⚠️ |
+| [Inventorio](https://modrinth.com/mod/inventorio) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Inventory Management](https://modrinth.com/mod/inventory-management) | ❌ | ✅ | ✅ | ✅ | ✅ |
+| [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Iris Shaders](https://modrinth.com/mod/iris) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [ItemSwapper](https://modrinth.com/plugin/itemswapper) | ❌ | ✅ | ✅ | ✅ | ✅ |
+| [JEI](https://modrinth.com/mod/jei) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Joy of Painting](https://modrinth.com/mod/joy-of-painting) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Litematica](https://modrinth.com/mod/litematica) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [MaLiLib](https://modrinth.com/mod/malilib) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Malum](https://modrinth.com/mod/malum) | ❌ | ✅ | ✅ | ✅ | ✅ |
+| [Mantle](https://modrinth.com/mod/mantle) | ✅ | ✅ | ✅ | ✅ | ❌ |
+| [MidnightControls](https://modrinth.com/mod/midnightcontrols) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Miner's Delight](https://modrinth.com/mod/miners-delight) | ❌ | ✅ | ✅ | ✅ | ✅ |
+| [Mod Menu](https://modrinth.com/mod/modmenu) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | ❌ | ✅ | ✅ | ✅ | ✅ |
+| [ObsidianUI](https://modrinth.com/mod/obsidianui) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Quark](https://modrinth.com/mod/quark) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [REI](https://modrinth.com/mod/rei) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [ReplayMod](https://modrinth.com/mod/replaymod) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Resourcify](https://modrinth.com/mod/resourcify) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Screenshot Viewer](https://modrinth.com/mod/screenshot-viewer/versions) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [SeasonHUD](https://modrinth.com/mod/seasonhud) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Show Me Your Skin!](https://modrinth.com/mod/show-me-your-skin) | ❌ | ✅ | ✅ | ✅ | ✅ |
+| [Simple Discord RPC](https://modrinth.com/mod/simple-discord-rpc) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Storage Drawers](https://modrinth.com/mod/storagedrawers) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Supplementaries](https://modrinth.com/mod/supplementaries) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Tinkers' Construct](https://modrinth.com/mod/tinkers-construct) | ⚠️ | ⚠️ | ⚠️ | ⚠️ | ❌ |
+| [Trinkets](https://modrinth.com/mod/trinkets) | ❌ | ✅ | ✅ | ✅ | ✅ |
+| [Universal Graves](https://modrinth.com/mod/universal-graves) | ❌ | ✅ | ✅ | ✅ | ✅ |
+| [Utility Belt](https://modrinth.com/mod/utility-belt) | ❌ | ❌ | ⚠️ | ⚠️ | ⚠️ |
+| [Vanilla Notebook](https://modrinth.com/mod/notebook) | ❌ | ✅ | ✅ | ✅ | ✅ |
+| [What Are They Up To (Watut)](https://modrinth.com/mod/what-are-they-up-to) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Wired Redstone](https://modrinth.com/mod/wiredredstone) | ❌ | ✅ | ✅ | ✅ | ✅ |
+| [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) | ✅ | ✅ | ✅ | ✅ | ✅ |
 </details>
 
 Likely also supports possible ports, otherwise please suggest not working ports in the discord
