@@ -233,6 +233,7 @@ None
 - Updated Create support for 1.20 - 1.21 to work with 6.0.0, note that this means those versions are no longer backwards compatible with create 0.5.1
 
 Fern's Fancy Inventory 1.xx+ 1.1.16
+Fern's Fancy Inventory 1.xx+ Legacy 1.1.16
 1.1.16
 ### Minor Update
 #### New mod GUIs supported:
@@ -241,3 +242,5 @@ Fern's Fancy Inventory 1.xx+ 1.1.16
 
 #### Other changes:
 - Updated Axiom support
+- Updated Supplementaries support for 1.20 - 1.21
+- Started maintaining a legacy branch of FFI, which is compatible with create 0.5.1 and below

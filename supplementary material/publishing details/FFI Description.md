@@ -22,6 +22,8 @@ Partial support could mean that all inventories in the mod are dark, but not sty
 
 1.21 currently includes all the mod files from 1.20, but the mods are yet to update, so unless they change their files when updating, FFI should work when they get a 1.21 version.
 
+1.20 and 1.21 legacy versions are to support create 0.5.1 and below, until not required anymore.
+
 ---
 | Mods     | 1.16 | 1.18 | 1.19 | 1.20 | 1.21 |
 |----------|:----:|:----:|:----:|:----:|:----:|

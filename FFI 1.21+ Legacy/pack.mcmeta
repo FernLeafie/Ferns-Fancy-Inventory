@@ -1,0 +1,10 @@
+﻿{
+  "pack": {
+        "pack_format": 34,
+        "supported_formats": {
+            "min_inclusive": 34,
+            "max_inclusive": 53
+        },
+    "description": "§f§lOLED §8§lGUI & More §d§o1.21+ \n§r§e§oBy Fern"
+  }
+}
