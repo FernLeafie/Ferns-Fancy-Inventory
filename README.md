@@ -27,7 +27,7 @@ The other folders are
 
 
 ## Contributing
-If you wish to contribute to the development of the pack yourself that would be much apprichiated. Pull requests can either choose to just put the files into under `development`, or integrate it directly into the version folders. Regardless, informing us about the changes and discussion around them in the discord [Fern's Forest](https://discord.gg/3bgQsPYwZb) would be much apprichiated.
+If you wish to contribute to the development of the pack yourself that would be much appreciated. Pull requests can either choose to just put the files into under `development`, or integrate it directly into the version folders. Regardless, informing us about the changes and discussion around them in the discord [Fern's Forest](https://discord.gg/3bgQsPYwZb) would be much apprichiated.
 
 ## Credits
 Part of the vanilla section of this resource pack comes from:
