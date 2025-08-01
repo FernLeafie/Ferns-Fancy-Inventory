@@ -244,3 +244,16 @@ Fern's Fancy Inventory 1.xx+ Legacy 1.1.16
 - Updated Axiom support
 - Updated Supplementaries support for 1.20 - 1.21
 - Started maintaining a legacy branch of FFI, which is compatible with create 0.5.1 and below
+
+Fern's Fancy Inventory 1.xx+ 1.1.16
+Fern's Fancy Inventory 1.xx+ Legacy 1.1.16
+1.1.16
+
+### Minor Update
+#### New mod GUIs supported
+- Create: Blocks & Bogies
+- Sawmill
+
+#### Other changes:
+// - Updated Roughly enough items support
+// - Updated supplementaries support

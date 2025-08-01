@@ -8,10 +8,10 @@ Another useful mod is [GUI Pack Utils](https://modrinth.com/mod/gui-pack-utils) 
 ## Currently Supported Mods
 Current count: 
 `
-82
+84
 `
 , over 
-`5` versions, as of version `1.1.16`
+`5` versions, as of version `1.1.17`
 <details>
 <summary>List and support</summary>
 
@@ -48,6 +48,7 @@ Partial support could mean that all inventories in the mod are dark, but not sty
 | [Crafting Tweaks](https://modrinth.com/mod/crafting-tweaks) | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [Create](https://modrinth.com/mod/create) | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [Create Big Cannons](https://modrinth.com/mod/create-big-cannons) | ❌ | ✅ | ✅ | ✅ | ✅ |
+| [Create: Blocks & Bogies](https://modrinth.com/mod/blocks-bogies) | ❌ | ❌ | ❌ | ✅ | ✅ |
 | [Create Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry) | ❌ | ❌ | ✅ | ✅ | ✅ |
 | [Create: Estrogen](https://modrinth.com/mod/estrogen) | ❌ | ✅ | ✅ | ✅ | ❌ |
 | [Create Nuclear](https://modrinth.com/mod/createnuclear) | ❌ | ❌ | ❌ | ✅ | ❌ |
@@ -94,6 +95,7 @@ Partial support could mean that all inventories in the mod are dark, but not sty
 | [REI](https://modrinth.com/mod/rei) | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [ReplayMod](https://modrinth.com/mod/replaymod) | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [Resourcify](https://modrinth.com/mod/resourcify) | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Sawmill](https://modrinth.com/mod/universal-sawmill) | ❌ | ❌ | ✅ | ✅ | ✅ |
 | [Screenshot Viewer](https://modrinth.com/mod/screenshot-viewer/versions) | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [SeasonHUD](https://modrinth.com/mod/seasonhud) | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [Show Me Your Skin!](https://modrinth.com/mod/show-me-your-skin) | ❌ | ✅ | ✅ | ✅ | ✅ |
